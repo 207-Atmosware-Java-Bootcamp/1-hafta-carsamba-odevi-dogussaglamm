@@ -1,0 +1,25 @@
+.daire{
+    border-radius: 50%;
+    border: 10px solid rgb(128, 189, 220);
+
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    color: aqua;
+    
+    
+    
+}
+
+.kare{
+    background-color: black;
+    border: 10px solid rgb(128, 189, 220);
+    height: 100px;
+    width: 300px;
+    float: right;
+    margin: auto;
+    padding: 10px;
+    border-radius: 25px;
+    
+    
+}

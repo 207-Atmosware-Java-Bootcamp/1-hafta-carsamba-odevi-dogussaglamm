@@ -1,0 +1,32 @@
+.box1{
+    background-color: black;
+    border: 10px  solid rgb(200, 15, 15);
+    height: 150px;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.box2{
+    background-color: black;
+    border: 2px  solid rgb(224, 234, 25);
+    height: 75px;
+    width: 200px;
+    margin:35px 200px 35px 10px;
+    float: left;
+    color: aqua;
+    
+   
+}   
+
+.box3{
+    background-color: black;
+    border: 2px  solid rgb(224, 234, 25);
+    height: 60px;
+    width: 150px;
+    margin: 40px 10px 35px 400px;
+    color: aqua;
+    
+}
